@@ -443,9 +443,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Project Maintainer**: K Karthikeya Gupta
+
 
 ---
 
@@ -458,3 +457,4 @@ If you found this helpful, please ⭐ star this repository to help others discov
 **Last Updated**: 2025-12-04  
 **Version**: 1.0.0  
 **Status**: ✅ Production Ready
+
